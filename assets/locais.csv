@@ -1,2 +1,31 @@
-Local,Score Hidrografia,Score B,Score C,Score D,Score E,Score F,Score G,Total
+cidade,score1,score2,score3,score4,score5,score6,score7,total
+Manaus,8,7,6,5,3,9,4,42
+Belém,7,8,6,4,5,7,5,42
+São Luís,6,5,7,8,4,6,3,39
+Fortaleza,9,8,7,6,5,8,7,50
+Natal,7,6,8,5,7,6,5,44
 Recife,5,6,5,4,3,2,1,26
+Salvador,8,7,9,6,5,7,8,50
+Brasília,9,9,8,7,6,5,4,48
+Goiânia,6,7,5,6,8,4,5,41
+Cuiabá,5,4,6,7,8,5,3,38
+Campo Grande,4,5,6,7,5,4,3,34
+Belo Horizonte,9,8,7,9,6,7,8,54
+Vitória,7,6,8,5,4,6,7,43
+Rio de Janeiro,9,8,9,7,8,9,8,58
+São Paulo,10,9,8,9,7,8,9,60
+Curitiba,8,9,7,8,6,7,8,53
+Florianópolis,9,8,7,9,8,7,6,54
+Porto Alegre,8,7,9,6,7,8,5,50
+Palmas,5,4,6,7,5,4,3,34
+Teresina,6,5,4,7,5,3,4,34
+Boa Vista,4,5,3,6,7,4,2,31
+Macapá,5,4,3,5,6,4,3,30
+Porto Velho,4,5,6,3,4,5,4,31
+Rio Branco,3,4,5,6,4,3,2,27
+Aracaju,6,7,5,4,6,5,4,37
+Maceió,7,6,5,8,4,5,6,41
+João Pessoa,8,7,6,5,7,6,5,44
+Ilhéus,7,8,6,5,4,7,5,42
+Foz do Iguaçu,8,9,7,6,8,7,6,51
+Santarém,5,6,4,5,3,4,5,32
